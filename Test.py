@@ -4,4 +4,4 @@ b=7
 while a>1 :
     print("NO")
     a -= 1
-print(a**2+b*4+9887)
+print(a**2+b*4+98887)
