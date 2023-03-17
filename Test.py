@@ -1,3 +1,3 @@
-a=8
-b=9
-print(a*b)
+a=4
+b=7
+print(a**2+b*4+6)
